@@ -167,7 +167,7 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 
 ## License
 
-[Specify your license here]
+GNU AFFERO GENERAL PUBLIC LICENSE
 
 ## Acknowledgments
 
